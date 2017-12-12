@@ -27,5 +27,5 @@ public class Int {
 			System.out.print(line);
 		}
 		in.close();	
-}	
+	}	
 }
